@@ -1,5 +1,5 @@
 #EXTM3U
---------Bein sport-----
+
 #EXTINF:-1 , BEIN 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
@@ -54,7 +54,7 @@ https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-38-d-shortdvr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-38-d-shortdvr/DASH_DASH/Live/channel(spo-hd-40)/manifest.mpd?hdnts=st=1741228532~exp=1741242932~acl=/variant/v1blackout/spo-hd-38-d-shortdvr/*~id=1ca72aa2-d0a9-45f3-823a-af07a22d9cd1~data=f96466bd-59e2-4c9b-8264-773523198236~hmac=8a2ab73b6b28b51def7817c9269dd92fa9d63e073c1c466ebc3d1394160e1ddb&hdcore=2.11.3
------Arena sport-----
+
 #EXTINF:-1 ,ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
@@ -104,7 +104,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f":"b573f718f1551d2cf2a335ca778f5604","03ed75ef7e4c56cb8f81cc17952fc554":"2be3b8e9f4756601e5b263beb14c5908","ea5736047df25edbb48bd055d48eb3dd":"8b40d3a415517224245a79e907cb8ef0"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-----TNT sport---
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/tnt_sports2.png" group-title="MPD SPORT",TNT 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -144,7 +144,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-----Bein sport afc ------
+
 #EXTINF:-1 , BEIN SPORTS AFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
@@ -164,7 +164,7 @@ https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-38-d-shortdvr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-38-d-shortdvr/DASH_DASH/Live/channel(spo-hd-33)/manifest.mpd?hdnts=st=1741228532~exp=1741242932~acl=/variant/v1blackout/spo-hd-38-d-shortdvr/*~id=1ca72aa2-d0a9-45f3-823a-af07a22d9cd1~data=f96466bd-59e2-4c9b-8264-773523198236~hmac=8a2ab73b6b28b51def7817c9269dd92fa9d63e073c1c466ebc3d1394160e1ddb&hdcore=2.11.3
------Ssc----
+
 #EXTINF:-1 , SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -194,7 +194,7 @@ https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264
----Ad sport----
+
 #EXTINF:-1 , AD SPORTS PREMIUM 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
@@ -209,7 +209,7 @@ https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
-----Bein movies ----
+
 #EXTINF:-1 , BEIN MOVIES 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
@@ -228,7 +228,7 @@ https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-0
 #EXTINF:-1 , BEIN MOVIES 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a79
-----Go3 sport----
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png" group-title="MPD SPORT", GO3 Sport 1 棣冨殼棣冨毈
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -274,7 +274,7 @@ https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
---- infinty sport---
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="MPD SPORT",Infinity+ 1 棣冨殸棣冨毈  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
